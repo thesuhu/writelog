@@ -1,6 +1,7 @@
 # writelog
 
 [![npm](https://img.shields.io/npm/v/@thesuhu/writelog.svg?style=flat-square)](https://www.npmjs.com/package/@thesuhu/writelog)
+[![Build Status](https://app.travis-ci.com/thesuhu/writelog.svg?branch=main)](https://app.travis-ci.com/thesuhu/writelog)
 [![license](https://img.shields.io/github/license/thesuhu/writelog?style=flat-square)](https://github.com/thesuhu/writelog/blob/master/LICENSE)
 
 Write logs and rotate every day. This is simple template for loging error or info message to file. Also transport to console when run in development environment.
