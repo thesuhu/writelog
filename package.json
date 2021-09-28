@@ -1,0 +1,28 @@
+{
+  "name": "@thesuhu/writelog",
+  "version": "1.0.0",
+  "description": "Write logs and rotate every day",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesuhu/writelog.git"
+  },
+  "keywords": [
+    "logs",
+    "logger"
+  ],
+  "author": "thesuhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesuhu/writelog/issues"
+  },
+  "homepage": "https://github.com/thesuhu/writelog#readme",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}
