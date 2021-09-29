@@ -2,7 +2,7 @@
   "name": "@thesuhu/writelog",
   "version": "1.0.0",
   "description": "Write logs and rotate every day",
-  "main": "app.js",
+  "main": "writelog.js",
   "scripts": {
     "test": "node ./test/test.js"
   },
